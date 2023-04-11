@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KotlinMultiLangSupport</string>
+    <string name="helloWorldStringResource">Hello world in bangla</string>
+    <string name="hello_world">hello world in bangla</string>
+    <string name="show_toast">show toast in bangla</string>
+    <string name="toast_msg">this is a toast msg in bangla</string>
+</resources>
