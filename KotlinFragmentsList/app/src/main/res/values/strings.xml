@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KotlinFragmentsList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="countries">
+        <item>Bangladesh</item>
+        <item>Denmark</item>
+        <item>Sweden</item>
+        <item>England</item>
+        <item>Singapore</item>
+    </string-array>
+</resources>
